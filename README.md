@@ -1,6 +1,6 @@
  # Stessa Transaction Categorizer
 
-This tool automatically categorizes financial transactions for real estate businesses using AI models through Ollama. It's specifically designed to work with Stessa's accounting categories and can process transaction data from various banking institutions.
+This tool automatically categorizes financial transactions (depending on format) for real estate businesses using AI models through Ollama (extremely poorly i must add. Better to just go line by line fwiw)0. It's specifically designed to work with Stessa's accounting categories and can process transaction data from various banking institutions (not really, repo is trash as is, but it is good starter code if you run your properties through stessa.com).
 
 ## Overview
 
